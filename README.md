@@ -1,1 +1,1 @@
-# Implement an AI to play Cantris using MCTS combined with CNN
+# Implementation of an AI to play Cantris using MCTS combined with CNN
